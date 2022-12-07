@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cc6ffd7-2975-431b-955b-17d210efb5cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/GrasGoyenaInaki.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Barco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CargaFactoryMethodSinglton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cargas/Carga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cargas/ContenedorComposite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cargas/Simple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoBarcos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArmaCorta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArmaLarga.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Policia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrasGoyenaInakiParcial/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrasGoyenaInakiParcial/.idea/libraries/GrasGoyenaInaki.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrasGoyenaInakiParcial/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrasGoyenaInakiParcial/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrasGoyenaInakiParcial/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GrasGoyenaInakiParcial/GrasGoyenaInakiParcial.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParcialGrasGoyena/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParcialGrasGoyena/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParcialGrasGoyena/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParcialGrasGoyena/ParcialGrasGoyena.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParcialGrasGoyena/src/Arma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParcialGrasGoyena/src/ArmaCorta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParcialGrasGoyena/src/ArmaLarga.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParcialGrasGoyena/src/Policia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaParcial/src/Capitan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticaParcial/src/Capitan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaParcial/src/Embarcacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticaParcial/src/Embarcacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaParcial/src/Veleros.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticaParcial/src/Veleros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaParcial/src/Yate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticaParcial/src/Yate.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IZFfcpg2Z9SNuUs8PiCdOBget7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/inaki/Desktop/Certified tech developer/POO/GrasGoyenaInaki",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cc6ffd7-2975-431b-955b-17d210efb5cb" name="Changes" comment="" />
+      <created>1670381304707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670381304707</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
